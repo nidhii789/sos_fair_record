@@ -29,7 +29,7 @@ $cd /etc/squid
 $sudo gedit blocksite
 
 5.	Add the websites to block:
-in this case, I am blocking youtube, facebook, google
+in this case, I am blocking facebook and amazon
 6.	To check the actual functioning of the proxy server go to the browser and click settings, search proxy in connection settings.
 
 7.	To configure Proxy access to the internet
